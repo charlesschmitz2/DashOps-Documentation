@@ -64,8 +64,8 @@ class HomeSplash extends React.Component {
           <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
           <img src={`${baseUrl}img/DashOps.png`} width="400" height="400"/>
           <PromoSection>
-            <Button href={docUrl('https://github.com/SeamusDoyle/DashOpsl')}>GitHub - Documentation</Button>
-            <Button href={Url('https://github.com/SeamusDoyle/DashOps')}>Github - DashOps</Button>
+            <Button href='https://github.com/SeamusDoyle/DashOpsl'>GitHub - Documentation</Button>
+            <Button href='https://github.com/SeamusDoyle/DashOps'>Github - DashOps</Button>
           </PromoSection>
         </div>
       </SplashContainer>

@@ -31,20 +31,29 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>Docs</h5>
-            <a href={this.docUrl('doc1.html')}>
-              Getting Started (or other categories)
-            </a>
-            <a href={this.docUrl('doc2.html')}>Guides (or other categories)</a>
-            <a href={this.docUrl('doc3.html')}>
-              API Reference (or other categories)
-            </a>
+            <a href={this.docUrl('doc1.html')}>Getting Started</a>
+            <a href={this.docUrl('doc2.html')}>Full Calendar</a>
+            <a href={this.docUrl('doc3.html')}>Architecture / Design</a>
           </div>
           <div>
+            <h5>Questions</h5>
+            <a href={this.docUrl('doc4.html')}>Help</a>
           </div>
           <div>
-            <h5>More</h5>
-            <a href={`${this.props.config.baseUrl}blog`}>Blog</a>
-            <a href="https://github.com/">GitHub</a>
+            <h5>Resources</h5>
+            <a href={this.docUrl('doc5.html')}>Team</a>
+            <a href="https://github.com/">GTel</a> 
+            <a href="https://fullcalendar.io/">FullCalendar</a> 
+            <a href="https://docusaurus.io/">Docusaurus</a>
+            
+          </div>
+        </section>
+        <section className="copyright">{this.props.config.copyright}</section>
+      </footer>
+    );
+  }
+}
+/* For reference if needed 
             <a
               className="github-button"
               href={this.props.config.repoUrl}
@@ -55,12 +64,6 @@ class Footer extends React.Component {
               aria-label="Star this project on GitHub">
               Star
             </a>
-          </div>
-        </section>
-        <section className="copyright">{this.props.config.copyright}</section>
-      </footer>
-    );
-  }
-}
+*/
 
 module.exports = Footer;

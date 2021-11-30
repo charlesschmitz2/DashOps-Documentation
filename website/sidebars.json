@@ -1,10 +1,13 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "Getting Started": ["doc1"],
+    "Deployment Guide": ["doc2"],
+    "Architecture / Design": ["doc3"]
   },
   "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "Help": ["doc4"]
+  },
+  "docs-other2": {
+    "Meet the Team": ["doc5"]
   }
 }

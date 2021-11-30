@@ -1,6 +1,6 @@
 ---
 id: doc1
-title: Latin-ish
+title: Getting Started
 sidebar_label: Example Page
 ---
 
