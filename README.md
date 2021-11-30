@@ -1,4 +1,4 @@
-##Getting the Project Running with Docker
+#Getting the Project Running with Docker
 This project uses Docusaurus to create the documentation guide for the DashOps Spring 2021 Capstone project.
 
 Alternatively, the run.sh script can be run with the git bash terminal command...
