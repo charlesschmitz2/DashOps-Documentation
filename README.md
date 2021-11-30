@@ -38,7 +38,7 @@ docker run -p 5000:3000 dashops:1
 
 ------------------------------------------------------------------
 
-#Docaurus Documentation
+# Docaurus Documentation
 This website was created with [Docusaurus](https://docusaurus.io/).
 
 You can use this guide if you want to make changes to the documentation
