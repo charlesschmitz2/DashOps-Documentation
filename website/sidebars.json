@@ -1,8 +1,8 @@
 {
   "docs": {
-    "Getting Started": ["doc1"],
-    "Deployment Guide": ["doc2"],
-    "Architecture / Design": ["doc3"]
+    "Getting Started": ["access","contributions","development"],
+    "Deployment Guide": ["dependencies","files","deployment"],
+    "Architecture / Design": ["architecture"]
   },
   "docs-other": {
     "Help": ["doc4"]
