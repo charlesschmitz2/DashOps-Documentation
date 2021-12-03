@@ -5,12 +5,18 @@ sidebar_label: Access
 ---
 
 ## Where to find the Code:
-The code can be found on our Github page belonging to Seamus Doyle/Charlie Schmitz. If you wish to gain access or privileges you can contact Charlie Schmitz at the following:
+The code can be found on our Github page belonging to Seamus Doyle/Charlie Schmitz. If you wish to gain access or privileges you can contact any of our team members at the following:
 
 📧 [charlieschmitz23@gmail.com](mailto:charlieschmitz23@gmail.com)
 📧 [charles.schmitz2@marist.edu](mailto:charles.schmitz2@marist.edu)
 
 📧 [seamus.doyle1@marist.edu](mailto:seamus.doyle1@marist.edu)
+
+📧 [calista.phippen1@marist.edu](mailto:calista.phippen1@marist.edu)
+
+📧 [elizabeth.foley1@marist.edu](mailto:elizabeth.foley1@marist.edu)
+
+📧 [muyi.zhang1@marist.edu](mailto:muyi.zhang1@marist.edu)
 
 ## What to do once you have the code:
 For this project we used Azure DevOps as our project management tool. This tool contains a lot of fancy features that support the agile method of program development. For this project, the todo's section is the most simple to use but the option to dive into the many features of this software are their if you so wish.

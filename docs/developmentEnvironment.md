@@ -1,15 +1,8 @@
 ---
 id: development
 title: Development Evironment
-sidebar_label: Setup
+sidebar_label: Setup Development Environment
 ---
-
-## Development Environment & Installation
-# Backgorund
-# Prerequisites
-# Install Script
-# Install Manually
-# Backend Configuration
 
 ## Background
 This application is developed with...
@@ -39,6 +32,8 @@ In the following sections I will go through what the stack for this project look
 
 
 ### FullCalendar
+
+FullCalendar is a javascript library that is modular and lightweight. It is fully open source and easy to configure for our many project needs. There is lots of documentation available on the sites linked below as well as many stack overflow discussions over common issues. This is optimized for React, Vue, Angular, and Typescipt; However, we chose to work with vanilla javascript as our needs were basic. The goal in using this was to avoid the challenges faced by the previous group of implementing the entire calendar manually. FullCalendar acts as our frontend here for the base calendar, all other features are built out of it. Additionally, there are many features that are not used but exist within the library. This is one of the most if not the most popular open source javascript calendars. The following file structure section will go over some points about this library but the best place to learn about the various funtinalities is through the documentation sites below:
 
 https://fullcalendar.io/docs/getting-started
 
