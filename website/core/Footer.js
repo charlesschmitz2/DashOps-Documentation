@@ -32,7 +32,7 @@ class Footer extends React.Component {
           <div>
             <h5>Docs</h5>
             <a href={this.docUrl('access.html')}>Getting Started</a>
-            <a href={this.docUrl('dependencies.html')}>Deployment Guide</a>
+            <a href={this.docUrl('dServerSetUp.html')}>Deployment Guide</a>
             <a href={this.docUrl('architecture.html')}>Architecture / Design</a>
           </div>
           <div>
@@ -42,7 +42,7 @@ class Footer extends React.Component {
           <div>
             <h5>Resources</h5>
             <a href={this.docUrl('doc5.html')}>Team</a>
-            <a href="https://github.com/">GTel</a> 
+            <a href="https://gtel.net">GTel</a> 
             <a href="https://fullcalendar.io/">FullCalendar</a> 
             <a href="https://docusaurus.io/">Docusaurus</a>
             

@@ -19,3 +19,11 @@ title: Team
 **IT ROLE:**
 
 > 🗄️ [muyi.zhang1@marist.edu](mailto:muyi.zhang1@marist.edu)
+
+**Professor**
+
+> 🗄️ [Christopher Algozzine](mailto:muyi.zhang1@marist.edu)
+
+**Client**
+
+> 🗄️ [Devin Overington](mailto:devin.overington@gtelcorp.com)
